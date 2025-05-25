@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Raj Nandgaonkar</h1>
-<h3 align="center">DevOps Engineer | AWS | Azure | GCP | Kubernetes | Docker | CI/CD | AWS Certified | Infrastructure as Code</h3>
+<h1 align="center">Hi 👋, I'm Raj Nandgaonkar </h1>
+<h3 align="center">Cloud Engineer ☁️ | DevOps Enthusiast 🚀 | Terraform ⚙️ | Docker 🐳 | Kubernetes ☸️ | Jenkins 🧪 | Git/GitHub 🛠️  | Linux 🐧 | CI/CD 🔄 | CloudFormation 🏗️ | Monitoring (Prometheus + Grafana) | Zensar Code</h3>
 
 <p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682742022796/d2dc42f5-3074-4be7-a40f-a4176dd0b879.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 ---
 
-🌐 Website: [https://rajnandgaonkar.wixsite.com/mysite](https://rajnandgaonkar.wixsite.com/mysite)  
-📫 Email: [rajnandgaonkar19@gmail.com](mailto:rajnandgaonkar19@gmail.com)  
+🌐 Website: https://rajnandgaonkar.wixsite.com/mysite 
+📫 Email: rajnandgaonkar19@gmail.com
 📍 Location: Pune, India
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Specializing in designing scalable cloud architectures and automating infrastructure using **Terraform**, **CloudFormation**, and **Ansible**.
+- 💻 I specialize in designing scalable cloud architecture and automating infrastructure using **Terraform**, **CloudFormation**, and **Ansible**.
 - ☁️ Certified in **AWS**, **Azure**, and **Google Cloud Platform (GCP)**.
-- 🔧 Passionate about building **CI/CD pipelines**, enhancing **Monitoring**, and ensuring **Security** in DevOps practices.
-- 🐳 Experienced with **Docker** and **Kubernetes** for containerization and orchestration.
-- 🧠 Currently expanding knowledge in **AWS Core Services**, **Linux**, and **Windows Server Support**.
+- 🔧 Passionate about **CI/CD pipelines**, **Monitoring**, and **Security in DevOps**.
+- 🐳 Container wizard with **Docker** and **Kubernetes**.
+- 🧠 Currently learning: **GitHub Actions**, **Service Mesh**, and **FinOps**.
 
 ---
 
@@ -49,31 +49,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajnandgaonkar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnandgaonkar&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
----
-
-## 📌 Projects & Contributions
-
-### 🔧 [DevOps GCP AWS Azure Learning Tutorial](https://github.com/rathoddt/devops-gcp-aws-azure)
-
-A comprehensive tutorial covering:
-
-- **Docker** & **Kubernetes** for containerization and orchestration
-- **Terraform** & **Ansible** for Infrastructure as Code
-- **Jenkins** & **Azure DevOps** for CI/CD pipelines
-- Deployments on **AWS EKS** and **CI/CD**
-
-### 📚 [Pretty Readme Badges and Certification](https://github.com/VishwaGauravIn/pretty-readme-badges)
-
-A curated collection of badges for GitHub profiles, including:
-
-- Cloud Certificates having like **AWS Solution Architect Certified**, 
-
-**Microsoft Azure 900**, and **AWS Cloud Practioner Cloud Quest**
-- DevOps tools knowledge such as **Docker**, **Kubernetes**, and **Terraform**
 
 ---
 
@@ -87,3 +65,4 @@ A curated collection of badges for GitHub profiles, including:
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="30" />
   </a>
 </p>
+
